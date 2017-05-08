@@ -1,0 +1,25 @@
+
+Phalcon Slayer Todo for Version v1.5.x
+
+By end of May or 2nd week of June:
+
+  v1.5.x
+   ✔ Modified Transporters to support smtp/sendmail/mail under Swift Package @done (17-05-08 15:41)
+   ✔ Controller / Action custom prefixes @done (17-05-08 15:39)
+   ☐ Custom Validator
+     ✔ implementation @done (17-05-08 15:44)
+     ☐ testing
+   ☐ Unified Service Provider, mapper to handle most of Laravel Available Packages.
+     ✔ singleton @done (17-05-08 15:39)
+     ✔ bind @done (17-05-08 15:39)
+     ✔ instance @done (17-05-08 15:39)
+     ✔ make @done (17-05-08 15:42)
+     ☐ alias
+     ☐ resolve
+     ☐ deffer
+   ☐ Dispatcher Modification
+     ☐ Enhancement on Controller Middleware
+     ☐ Add Routing Middleware
+   ☐ Constructor/Method Injection Validator
+     ☐ Analyze class reflection if interface/abstract
+     ☐ Modify parameter into an instance for null typehint
