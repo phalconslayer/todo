@@ -1,5 +1,9 @@
 # Todo Lists and Internal Discussions
 
+### How
+
+If you're using Sublime Text, please use `PlainTasks` using your package control.
+
 ### Intro
 
 Every `.todo` file will be represented as the version maintainance, once a new created `issue` will be posted and approved for new feature or removal, it will be listed in the said version.
