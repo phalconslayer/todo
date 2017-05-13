@@ -6,6 +6,7 @@ By end of May or 2nd week of June:
   v1.5.x
    ✔ Modified Transporters to support smtp/sendmail/mail under Swift Package @done (17-05-08 15:41)
    ✔ Controller / Action custom prefixes @done (17-05-08 15:39)
+   ✔ Benchmark Console Command Line @done (17-05-13 12:55)
    ☐ Custom Validator
      ✔ implementation @done (17-05-08 15:44)
      ☐ testing
@@ -15,8 +16,8 @@ By end of May or 2nd week of June:
      ✔ instance @done (17-05-08 15:39)
      ✔ make @done (17-05-08 15:42)
      ☐ alias
-     ☐ resolve
-     ☐ deffer
+     ✔ resolver of providers @done (17-05-13 12:55)
+     ✔ defer of providers @done (17-05-13 12:55)
    ☐ Dispatcher Modification
      ☐ Enhancement on Controller Middleware
      ☐ Add Routing Middleware
